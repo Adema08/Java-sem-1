@@ -13,6 +13,6 @@ public class Main4 {
             res += " ";
         }
         // String res = String.join(" ", words);
-        System.out.println(res);
+        System.out.println(res.trim());
     }
 }
